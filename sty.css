@@ -51,7 +51,7 @@ body{
     color: #fff;
 }
 .head span{
-    color: yellow;
+    color: blue;
 }
 .pro{
     text-align: center;
@@ -135,7 +135,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: blue;
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -149,11 +149,11 @@ table,th,td{
     border-collapse: collapse;
 }
 td{
-    color: white;
+    color: green;
     padding: 1rem;
 }
 th{
-    color: white;
+    color: red;
     padding: 1rem;
 }
 table{
